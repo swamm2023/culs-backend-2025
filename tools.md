@@ -6,9 +6,6 @@ title: Tools, APIs & more
 ---
 ## Tools, APIs & more
 ---
-## Github
-https://github.com/pepe/culs-backend-2025
----
 ## Little aside
 * Frontend
 * Serverless, containers, microservices
