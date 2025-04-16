@@ -57,19 +57,6 @@ title: Tools, APIs & more
 * Declarative
 * Today's task
 ---
-## GraphQL
-```
-{
-  film(id: "ZmlsbXM6MQ==") {
-    title
-    director
-    releaseDate
-    planetConnection {
-      planets {
-        name
-}}}}
-```
----
 ## Basic architecture
 * Storage
 * Serving
